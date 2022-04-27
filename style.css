@@ -9,8 +9,8 @@ body {
     left: 0;
     position: fixed;
     width: 100%;
-    color: black;
-    background-color: pink;
+    color: white;
+    background-color: black;
     
 }
 
@@ -19,7 +19,7 @@ body {
     display: block;
     padding: 15px 25px;
     text-align: center;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
