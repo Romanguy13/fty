@@ -1,0 +1,38 @@
+body {
+    font-family: 'Libre Bodoni', serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.nav {
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    color: black;
+    background-color: pink;
+    
+}
+
+.item {
+    float: right;
+    display: block;
+    padding: 15px 25px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+.nav :hover {
+    color: black;
+    background-color: #F19CBB;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #f1f1f1!important;
+    padding-top: 64px;
+    padding-bottom: 32px;
+    opacity: 0.6;
+
+}
